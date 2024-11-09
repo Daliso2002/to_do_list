@@ -1,16 +1,13 @@
-# testone
+Weekly Task Planner 📅
+A simple and intuitive Flutter-based task planning app that helps you organize tasks for each day of the week. Users can add, view, and manage their daily tasks with ease, making it ideal for tracking to-dos and staying on top of weekly goals.
 
-A new Flutter project.
+Features
+Daily Task View: Select a day of the week and view all tasks scheduled for that day.
+Add New Tasks: Quickly add new tasks to any selected day.
+Task Completion Toggle: Mark tasks as completed or incomplete with a simple checkbox.
+Delete Tasks: Remove tasks effortlessly to keep your schedule up-to-date.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Tech Stack
+Flutter: Leveraging Flutter for a seamless, cross-platform mobile experience.
+Dart: Utilizing Dart’s capabilities for building a responsive and efficient UI.
+This app is a great starting point for Flutter beginners and can serve as a foundation for more advanced task management applications. Contributions are welcome!
